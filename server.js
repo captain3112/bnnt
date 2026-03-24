@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://bell-webmail-psi.vercel.app',
-  'https://porost.netlify.app'
+  'https://fascinating-gelato-983979.netlify.app'
    // add all your trusted frontends here
 ];
 
